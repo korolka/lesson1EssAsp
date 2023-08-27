@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\homeworkLesson1Asp.NetCoreEss.props" />
+</Project>
